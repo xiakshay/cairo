@@ -7,7 +7,7 @@
       "src/lib.cairo"
     ],
     "test": [
-      "tests/hamming.cairo"
+      "tests/pangram.cairo"
     ],
     "example": [
       ".meta/example.cairo"
@@ -16,7 +16,7 @@
       "Scarb.toml"
     ]
   },
-  "blurb": "Calculate the Hamming difference between two DNA strands.",
-  "source": "The Calculating Point Mutations problem at Rosalind",
-  "source_url": "https://rosalind.info/problems/hamm/"
+  "blurb": "Determine if a sentence is a pangram.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Pangram"
 }
